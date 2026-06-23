@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beso de amor
+
+This log tracks the cryptographic history and versioning for the song **Beso de amor** (beso-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:18:06.978669 | `v1` | `1c1470b841e9558bd88b0dbf3b54043d36458de44f1bb195c869ef4afbe76f9c` | `b8b55301fcd885f18ddc789dd78bea3656e1e0a7d55661f8dfca9e66d633e089` | `2026-06-24_beso-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

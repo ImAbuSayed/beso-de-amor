@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Beso de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-amor/) |
+| **Get License** | [Get a Licensing Quote for Beso de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1c1470b841e9558bd88b0dbf3b54043d36458de44f1bb195c869ef4afbe76f9c` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
